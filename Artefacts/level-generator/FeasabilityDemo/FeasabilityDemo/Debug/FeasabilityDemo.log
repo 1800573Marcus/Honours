@@ -1,0 +1,4 @@
+﻿  FeasabilityDemo.cpp
+C:\Users\Vicky\Documents\GitHub\level-generator\FeasabilityDemo\FeasabilityDemo\FeasabilityDemo.cpp(451,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vicky\Documents\GitHub\level-generator\FeasabilityDemo\FeasabilityDemo\FeasabilityDemo.cpp(443): warning C4715: 'branchrooms': not all control paths return a value
+  FeasabilityDemo.vcxproj -> C:\Users\Vicky\Documents\GitHub\level-generator\FeasabilityDemo\Debug\FeasabilityDemo.exe
